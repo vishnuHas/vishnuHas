@@ -18,7 +18,7 @@
   <!-- Quick Navigation Bar -->
   <p align="center">
     <a href="#-about-me"><b>About</b></a> •
-    <a href="#-github-telemetry--metrics"><b>Analytics</b></a> •
+    <a href="#-github-telemetry--activity-metrics"><b>Analytics</b></a> •
     <a href="#-featured-engineering-projects"><b>Projects</b></a> •
     <a href="#-technical-arsenal"><b>Tech Stack</b></a> •
     <a href="#-experience--milestones"><b>Experience</b></a> •
@@ -59,33 +59,41 @@ Current Goal: Building mission-critical, AI-accelerated full-stack products
 <br />
 
 <!-- ----------------------------------------------------------------------- -->
-<!-- DYNAMIC GITHUB TELEMETRY & STATS HUD                                    -->
+<!-- DYNAMIC GITHUB TELEMETRY & ACTIVITY METRICS                             -->
 <!-- ----------------------------------------------------------------------- -->
-## 📊 GitHub Telemetry & Metrics
+## 📊 GitHub Telemetry & Activity Metrics
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+
+  <!-- Main Profile Details Radar Card -->
+  <a href="https://github.com/vishnuHas">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnuHas&theme=tokyonight" alt="Vishnu's GitHub Profile Details" />
+  </a>
+
+  <br /><br />
+
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/vishnuHas">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=vishnuHas&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&border_color=6366f1&bg_color=0d1117&title_color=818cf8&icon_color=38bdf8&text_color=e2e8f0" alt="Vishnu's GitHub Stats" />
+          <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuHas&theme=tokyonight&hide_border=false&border_radius=12&background=0d1117" alt="Vishnu's GitHub Streak" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/vishnuHas">
-          <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuHas&theme=tokyonight&hide_border=false&border_radius=12&border_color=6366f1&background=0d1117&ring=6366f1&fire=f59e0b&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=94a3b8&dates=94a3b8" alt="Vishnu's GitHub Streak" />
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnuHas&theme=tokyonight" alt="Vishnu's Stats Summary" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/vishnuHas">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuHas&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&border_color=6366f1&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0" alt="Most Used Languages" />
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishnuHas&theme=tokyonight" alt="Most Used Languages" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/vishnuHas">
-          <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuHas&theme=tokyo-night&bg_color=0d1117&color=6366f1&line=38bdf8&point=f59e0b&area=true&hide_border=false&border_radius=12&border_color=6366f1" alt="Vishnu's Contribution Activity Graph" />
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishnuHas&theme=tokyonight" alt="Repos Per Language" />
         </a>
       </td>
     </tr>
